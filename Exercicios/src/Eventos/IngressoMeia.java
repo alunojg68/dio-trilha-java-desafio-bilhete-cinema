@@ -17,7 +17,6 @@ public class IngressoMeia extends Bilheteria {
 
 	private double valorIngressoMeia; // Armazena o valor do ingresso com 50% de desconto
 	private String mudaValor; // Representação em texto do valor do ingresso com desconto
-	
 
 	// Legendas para exibição das informações do ingresso
 	private String[] legendas = { "Filme", "Áudio", "Tipo" };
